@@ -1,5 +1,8 @@
 # TM2Scratch
 
+Copyright (c) 2020, Junya Ishihara(https://github.com/champierre) and Koji Yokokawa(https://github.com/yokobond)
+All rights reserved.
+
 TM2Scratch connects Google Teachable Machine 2 with Scratch 3. You can use image, audio recognition on Scratch project (pose recognition to be released in near future).
 
 ## How to use
